@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Carlos Serrano. 👋 Dev Jr.
+
+:pencil2:  Junior Web Developer with skills in: Html, css, javascript, react.js and node.js
+
+💬 You can contact me here: carlosdaserrano4@gmail.com
+
+
 
 <!--
 **CarlosD95/CarlosD95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
