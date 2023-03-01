@@ -1,9 +1,7 @@
 ## Hi, I'm Carlos Serrano. 👋 Dev Jr.
 
-:pencil2:  Junior Web Developer with skills in: Html, css, javascript, react.js and node.js
-
+:pencil2:  Junior Web Developer with skills in: Html, css, Javascript.
 💬 You can contact me here: carlosdaserrano4@gmail.com
-
 
 
 <!--
