@@ -1,6 +1,6 @@
-## Hi, I'm Carlos Serrano. 👋 Dev Jr.
+## Hello, I am Carlos Delgado. 👋 Frontend Developer.
 
-:pencil2:  Junior Web Developer with skills in: Html, css, Javascript.
+:pencil2:  Frontend Developer with skills in: HTML, CSS, SCSS, BOOTSTRAP, Javascript, REACT.
 💬 You can contact me here: carlosdaserrano4@gmail.com
 
 
